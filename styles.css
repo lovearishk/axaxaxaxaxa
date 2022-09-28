@@ -1,0 +1,46 @@
+body {
+    background-color: gainsboro;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-size: 35px;
+}
+
+.heading {
+    background: lightgray;
+}
+
+.info {
+    background: lightgray;
+}
+
+.all {
+    max-width: 750px;
+    margin: auto;
+}
+
+.info2 {
+    background: lightgray;
+}
+
+.info3 {
+    background: lightgray;
+}
+
+.info4 {
+    background: lightgray;
+}
+
+.info5 {
+    background: lightgray;
+}
+
+.info6 {
+    background: lightgray;
+}
+
+.info7 {
+    background: lightgray;
+}
